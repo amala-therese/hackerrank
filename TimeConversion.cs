@@ -65,5 +65,5 @@ class Solution
 }
 
 
-  git config --global user.email "amalatheresegeorge2022@ec.sjcetpalai.ac.in"
-  git config --global user.name "amala_therese"
+//   git config --global user.email "amalatheresegeorge2022@ec.sjcetpalai.ac.in"
+//   git config --global user.name "amala_therese"
